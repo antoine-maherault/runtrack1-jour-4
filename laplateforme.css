@@ -154,6 +154,17 @@ main{
   padding-top : 20px;
 }
 
+.A{
+  color : rgb(236, 134, 206);
+}
+
+.A:visited {
+  color : rgb(156, 88, 136);
+}
+
+.A:visited:hover {
+  color : rgb(145, 144, 144);
+}
   /*//_______ Footer _______//*/
 
 .FOOT{
@@ -478,7 +489,6 @@ position: relative;
   
   a:link {
     text-decoration: none;
-    color: #275fa0;
     }
   
   .map {
